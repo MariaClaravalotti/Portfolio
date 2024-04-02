@@ -14,7 +14,8 @@ function App(){
   return(
     <>
     <GlobalStyle/>
-    <Navegacao />
+    <Navegacao/>
+   
    
    
     </>
