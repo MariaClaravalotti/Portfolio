@@ -1,8 +1,9 @@
 import styled from "styled-components"
 
 
-export const Navegacao = styled.nav`
+export const Navegacao = styled.ul`
     background-color: pink;
-    font-family: "Sevillana", cursive;
+    
 `
+
 
