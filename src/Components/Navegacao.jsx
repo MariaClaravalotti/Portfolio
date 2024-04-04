@@ -22,6 +22,7 @@ function Navegacao() {
             </S.Navegacao >
 
             <Routes>
+                
               <Route path="/" element={<Inicio />}/>
               <Route  path="Sobre" element={<Sobre />}/>
               <Route  path="Projetos" element={<Projetos />}/>
